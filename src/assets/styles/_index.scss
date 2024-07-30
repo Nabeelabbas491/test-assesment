@@ -1,0 +1,22 @@
+.thin-overflow {
+    overflow-y: auto;
+}
+
+.thin-overflow::-webkit-scrollbar {
+    height: 5px;
+    width: 5px;
+}
+
+.thin-overflow::-webkit-scrollbar-thumb {
+    background: #072635;
+}
+
+.thin-overflow::-webkit-scrollbar-track {
+    background: #E3E4E6;
+}
+
+.thin-overflow::-webkit-scrollbar-thumb {
+    background-color: #072635;
+    border-radius: 10px;
+    border: 6px solid #072635;
+}
